@@ -1,0 +1,51 @@
+class_attr:
+  attr1: 4
+  attr2:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  attr3:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 4
+  - 5
+  attr4: 54
+  some_function:
+    class_attr:
+      __func__:
+        func_param:
+          annotations: {}
+          args:
+          - self
+          - x
+          defaults: null
+          kwonlyargs: []
+          kwonlydefaults: null
+          varargs: null
+          varkw: null
+        name: some_function
+        object: fCQDD0RR910001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO0*nuEZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgR0j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?4txM=0DJ)y0Av9a08;>zj0R(GZgX^Vluk<mhLns2ZeeX@bCiq)VRUqIG?ayuj0kpNa&BR5Wpk8_1aoC<W|WKpc$9{ej0k3FY-Mg?ZDo{<H7{syZDlWEZgg*RXkjmDb8uf_Zf|sGWpZC(a%gFEWn*-8a%C@7bZKl~bZ=i|b!~7iaCwxB1a4t%Wt5B!b8l^BUuJb~V{~b6Zj_7*W@&PBbZlvEWo~bjOA?F*Y;JFKVPcd+0ssM&j0k3OWo33@a&wd^j0j_8Y;1O6a&wd^b&L!~b#7yHX>V>+d2nTveUvDS2WM<=Vqt7^lzo(F7HAiY2xMhuVRdYDbCgbu2V-n+b9HiMlunEUWNBk`lzo(p3Tt;{WoBV@Y;<#!PIYxI
+        representation: <function very_big_class.some_function at 0x7f3654af2160>
+        type: function
+    func_param:
+      annotations: {}
+      args:
+      - self
+      - x
+      defaults: null
+      kwonlyargs: []
+      kwonlydefaults: null
+      varargs: null
+      varkw: null
+    name: some_function
+    object: fCQDD0RR910001elqie{LvLhdRC#b^lzo&aj0j<JXJc=5ZgiAO0*nuEZ*y;MY<XdFXJc=5ZgiAO0E`Z6cW-WNd0}#AV{dhCbd*Z~j0bLPZ)0I>bCgR0j0tmeVPk7^X?kUpO9G4qW^7?+bCgR%j09tEWMz~?4txM=0DJ)y0Av9a08;>zj0R(GZgX^Vluk<mhLns2ZeeX@bCiq)VRUqIG?ayuj0kpNa&BR5Wpk8_1aoC<W|WKpc$9{ej0k3FY-Mg?ZDo{<H7{syZDlWEZgg*RXkjmDb8uf_Zf|sGWpZC(a%gFEWn*-8a%C@7bZKl~bZ=i|b!~7iaCwxB1a4t%Wt5B!b8l^BUuJb~V{~b6Zj_7*W@&PBbZlvEWo~bjOA?F*Y;JFKVPcd+0ssM&j0k3OWo33@a&wd^j0j_8Y;1O6a&wd^b&L!~b#7yHX>V>+d2nTveUvDS2WM<=Vqt7^lzo(F7HAiY2xMhuVRdYDbCgbu2V-n+b9HiMlunEUWNBk`lzo(p3Tt;{WoBV@Y;<#!PIYxI
+    representation: <bound method very_big_class.some_function of <__main__.very_big_class
+      object at 0x7f3654e1caf0>>
+    type: method
+object: fCQB=000000001t2wz`qVQFq(UzCgvc4cyTUt(!zUt?@xb90oFlqrFfeUyv^VRUqIG?Ys=b7C$
+representation: <__main__.very_big_class object at 0x7f3654e1caf0>
+type: __main__.very_big_class

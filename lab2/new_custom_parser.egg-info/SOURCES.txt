@@ -1,0 +1,14 @@
+JSONSerializer.py
+ObjectSerial.py
+PickleSerializer.py
+README.txt
+SerializerFactory.py
+TomlSerializer.py
+YamlSerializer.py
+console_util.py
+setup.py
+new_custom_parser.egg-info/PKG-INFO
+new_custom_parser.egg-info/SOURCES.txt
+new_custom_parser.egg-info/dependency_links.txt
+new_custom_parser.egg-info/entry_points.txt
+new_custom_parser.egg-info/top_level.txt

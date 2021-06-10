@@ -1,0 +1,10 @@
+./pizza_shop/mainapp/__pycache__/**
+./pizza_shop/htmlcov/**
+./pizza_shop/zero
+./pizza_shop/
+./pizza_shop/__pycache__/**
+./pizza_shop/pizza_shop/__pycache__/**
+./pizza_shop/.pytest_cache/**
+./pizza_shop/.coverage
+./pizza_shop/.coveragerc
+./pizza_shop/mainapp/.pytest_cache/**

@@ -1,0 +1,2 @@
+coverage run --source=ObjectSerial,SerializerFactory,JSONSerializer,TomlSerializer,YamlSerializer,PickleSerializer tests.py
+coverage report
