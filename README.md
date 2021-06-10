@@ -1,1 +1,3 @@
-# python-docker_django_project_online-shop
+https://hub.docker.com/repository/docker/antonharkevich/pizza_shop_nginx 
+https://hub.docker.com/repository/docker/antonharkevich/pizza_shop 
+https://hub.docker.com/repository/docker/antonharkevich/pizza_shop_prod
