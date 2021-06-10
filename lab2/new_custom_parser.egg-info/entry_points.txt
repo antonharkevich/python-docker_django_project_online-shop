@@ -1,3 +1,0 @@
-[console_scripts]
-new_custom_parser = console_util:main
-
